@@ -9,7 +9,7 @@ Clawie runs teams of AI agents — from brief to launched product. Research, spe
 - 📖 **[Specifications](https://github.com/clawie-dev/specs)** — the end-goal architecture and 31 feature specs
 - 🤖 **[Framework](https://github.com/clawie-dev/clawie)** — the AdonisJS platform (CLI + Web + API)
 - 📚 **[Documentation](https://github.com/clawie-dev/docs)** — user guides
-- 🛒 **[Marketplace](https://github.com/clawie-dev/market.clawie.dev)** — plugins, skills, drivers
+- 🛒 **[Marketplace](https://github.com/clawie-dev/market.clawie.dev)** — design contract for plugins, skills, drivers (lands in v1.x)
 - 🌐 **[clawie.dev](https://github.com/clawie-dev/clawie.dev)** — landing + docs site
 
 ## Highlights
