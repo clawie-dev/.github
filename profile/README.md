@@ -6,7 +6,7 @@ Clawie runs teams of AI agents — from brief to launched product. Research, spe
 
 ## Where to start
 
-- 📖 **[Specifications](https://github.com/clawie-dev/specs)** — the end-goal architecture and 26 feature specs
+- 📖 **[Specifications](https://github.com/clawie-dev/specs)** — the end-goal architecture and 31 feature specs
 - 🤖 **[Framework](https://github.com/clawie-dev/clawie)** — the AdonisJS platform (CLI + Web + API)
 - 📚 **[Documentation](https://github.com/clawie-dev/docs)** — user guides
 - 🛒 **[Marketplace](https://github.com/clawie-dev/market.clawie.dev)** — plugins, skills, drivers
@@ -18,7 +18,7 @@ Clawie runs teams of AI agents — from brief to launched product. Research, spe
 - **Default-deny** — Docker isolation + optional Outcall egress rules
 - **Git is the source of truth** — every team, agent, skill is its own repo with per-component rollback
 - **Continuously benchmarked** — agents are scored on every self-modification merge
-- **End-to-end software agency** — `clawie project new "Build me a server monitoring SaaS"` → deployable product
+- **End-to-end software agency** — the v1.x flagship pipeline (research → spec → code → review → deploy → market) defined in [spec 016](https://github.com/clawie-dev/specs/tree/main/speckit/016-software-agency-pipeline); v1.0 ships the substrate (durable lifecycle, container execution, policy, audit, teams, scheduler) the pipeline runs on
 
 ## License
 
