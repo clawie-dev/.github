@@ -1,3 +1,5 @@
+![Clawie](https://raw.githubusercontent.com/clawie-dev/.github/main/profile/assets/banner-brand-v1.png)
+
 # Clawie
 
 > The open-source autonomous software agency framework.
