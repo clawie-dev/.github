@@ -25,3 +25,5 @@ Clawie runs teams of AI agents — from brief to launched product. Research, spe
 ## License
 
 MIT.
+
+[![advertisement](https://ads.servead.net/i/9d385f0e-cc47-431a-a8d7-7148c78c7373.svg)](https://ads.servead.net/c/9d385f0e-cc47-431a-a8d7-7148c78c7373)
